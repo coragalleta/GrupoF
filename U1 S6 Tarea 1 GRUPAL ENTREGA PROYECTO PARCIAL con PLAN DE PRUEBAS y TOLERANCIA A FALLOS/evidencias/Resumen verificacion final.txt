@@ -1,0 +1,6 @@
+Resumen de verificación de la versión final
+
+Fuente: ejecución de las pruebas en NetBeans confirmada por la responsable del proyecto.
+JUnit 5: 32 casos correctos, sin fallos; 25 de SistemaTest y 7 de AutenticacionTest.
+Verificaciones de interfaz: 8 correctas (4 del módulo de gestión y 4 del acceso).
+El archivo Resultados JUnit.txt conserva la salida original de los 25 casos del avance anterior. Este resumen registra la confirmación posterior, no constituye una salida automática de Maven.

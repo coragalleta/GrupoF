@@ -1,0 +1,11 @@
+Verificación independiente de autenticación — JDK 21, compilación --release 17.
+AUT-01: Acceso válido y contraseña no almacenada en texto plano: OK
+AUT-02: Usuario inexistente: OK
+AUT-03: Contraseña incorrecta: OK
+AUT-04: Bloqueo al tercer intento, persistente al reabrir: OK
+AUT-05: Recuperación y reinicio del contador: OK
+AUT-06: No sobrescribir cuenta existente: OK
+AUT-07: Cuenta inicial y conservación de intentos: OK
+Interfaz Swing: apertura, usuario inexistente, contraseña incorrecta y bloqueo al tercer intento: OK.
+Capturas reales del diálogo en entorno gráfico virtual.
+La ejecución posterior de la suite completa en NetBeans fue confirmada como satisfactoria por la responsable del proyecto. Véase Resumen verificacion final.txt.
